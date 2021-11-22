@@ -8,4 +8,4 @@ classoption: openany
 
 # Our Plans Uncovered 
 
-Hello! My name is Natasa Hogue and we are looking at delveloping a new method of working across our departments. This new method is adopting platforms, workflows, and practices from the software and development team to use in our own department and to connect (literally) with the other side of the organizaion and infrastructure. 
+Hello! My name is Natasa Hogue and we are looking at developing a new method of working across our departments. This new method is adopting platforms, workflows, and practices from the software and development team to use in our own department and to connect (literally) with the other side of the organizaion and infrastructure. 
