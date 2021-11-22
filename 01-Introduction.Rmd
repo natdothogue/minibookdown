@@ -1,8 +1,8 @@
 #Introduction
 
 This chapter is an overview of the methods that
-we propose to collaboarte on projects at LIRN. 
+we propose to collaboarate on with projects at LIRN. 
 
 #Steps
 
-We will understand Github, Gitpages, and also explore "Course in a Box."
+We will understand Github, Gitpages, and also explore Jekyll and "Course in a Box."
